@@ -1,4 +1,4 @@
-# EXAI-group-project
+# EXAI-group-project (group MFBSEG)
 
 Repo for Explainable AI group assignment
 

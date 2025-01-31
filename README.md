@@ -7,4 +7,5 @@ For this project we will use the CRAN drug prediction dataset containing records
 For this project we intend to explore how the missuse of such a dataset could lead to potentially disastrous consequences, by training some models to predict drug use and then employing EX AI methods to determine how these models make their predictions.
 
 Group Members:
+
 Florent Didascalou 6337071

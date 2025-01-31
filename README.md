@@ -8,6 +8,7 @@ For this project we intend to explore how the missuse of such a dataset could le
 
 ### Students
 * Sven Hockers (I6375151)
+* Florent Didascalou (I6337071)
 
 
 ---
